@@ -98,18 +98,28 @@ header p {
 }
 .pad2 {
   background: #d36060;
+  color: black;
+  text-decoration-color: #ffffff;
 }
 .pad3 {
   background: #c060d3;
+  color: black;
+  text-decoration-color: #ffffff;
 }
 .pad4 {
   background: #d3d160;
+  color: black;
+  text-decoration-color: #ffffff;
 }
 .pad5 {
   background: #606bd3;
+  color: black;
+  text-decoration-color: #ffffff;
 }
 .pad6 {
   background: #60c2d3;
+  color: black;
+  text-decoration-color: #ffffff;
 }
 
 .visual > div {
